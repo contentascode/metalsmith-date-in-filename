@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/sanx/metalsmith-date-in-filename",
   "dependencies": {
-    "lodash": "^2.4.1"
+    "lodash": "^4.17.17"
   },
   "devDependencies": {
     "metalsmith": "^1.0.1",
